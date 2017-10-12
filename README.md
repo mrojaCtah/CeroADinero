@@ -16,4 +16,7 @@ I will be teaching my friends how to program a bot, written in JavaScript and No
 * It is recommended that you use version control with all of your projects.
 * So.. start here lol
 
+# DISCLAIMER: 
+* I have the socket.io chat app tutorial posted on here for the mean time. 
+* I did not write any of the code. 
 
